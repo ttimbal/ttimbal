@@ -27,5 +27,5 @@ I'm from Bolivia
 Here are some ideas to get you started:
 
 - 📚 Alandia libary  https://alandia-books.herokuapp.com/
-- 📱 Wallpapera app shorturl.at/gvKVZ
+- 📱 Wallpapera app https://shorturl.at/gvKVZ/
 - 📝 Design Board Diagrams C4 https://ttimbal.github.io/boardSoft/
