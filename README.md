@@ -23,7 +23,7 @@ I'm from Bolivia
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-Here are some ideas to get you started:
+Here are some projects:
 
 - 📚 Alandia libary  https://alandia-books.herokuapp.com/
 - 📝 Design Board Diagrams C4 https://ttimbal.github.io/boardSoft/
