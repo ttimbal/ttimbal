@@ -8,7 +8,7 @@ I'm from Bolivia
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="AWS Lamda" src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
   <img alt="AWS DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamoDB&logoColor=white" />
-  <img alt="AWS Api Gateway" src="https://img.shields.io/badge/-Api-Gategay-FF4F8B?style=flat-square&logo=Amazon-API-Gateway&logoColor=white" />
+  <img alt="AWS Api Gateway" src="https://img.shields.io/badge/-ApiGategay-FF4F8B?style=flat-square&logo=Amazon-API-Gateway&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
