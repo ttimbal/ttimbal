@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Jose Luis Miranda
+
 I'm from Bolivia
 
 <h3>Things I code with</h3>
