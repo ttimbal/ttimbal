@@ -24,7 +24,7 @@ I'm from Bolivia
   <img alt="Nodejs" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
 
-Here are some ideas to get you started:
+Here are some projects:
 
 - 📚 Alandia libary  https://alandia-books.herokuapp.com/
 - 📱 Wallpaper app https://shorturl.at/gvKVZ
