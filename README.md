@@ -4,7 +4,7 @@ My name is Jose Luis Miranda
 
 I'm from Bolivia
 
-<h3>Things I code with</h3>
+<h3>I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Lambda" src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
