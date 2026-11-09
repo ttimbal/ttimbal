@@ -9,7 +9,7 @@ I'm from Bolivia
     <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-    <img alt="Claude" src="https://img.shields.io/badge/-claudecode-D97757?style=flat-square&logo=go&logoColor=white" />
+    <img alt="ClaudeCode" src="https://img.shields.io/badge/-ClaudeCode-D97757?style=flat-square&logo=claudecode&logoColor=white" />
     
   
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
